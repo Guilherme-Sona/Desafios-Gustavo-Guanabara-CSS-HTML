@@ -1,0 +1,29 @@
+/* cor do corpo */
+body {
+  background-color: tan;
+}
+
+/* tamanho do título e sub título */
+h1,
+h2 {
+  font-size: 30px;
+}
+
+/* Tamanho do texto */
+p {
+  font-size: 23px;
+}
+
+/* tamanho dos links */
+a {
+  font-size: 20px;
+}
+
+/* deixar a foto redonda */
+#foto {
+  border-radius: 100px;
+  width: 200px;
+  padding: 2px;
+  justify-content: center;
+  align-items: center;
+}
