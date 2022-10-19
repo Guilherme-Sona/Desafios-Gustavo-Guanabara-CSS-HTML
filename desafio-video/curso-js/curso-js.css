@@ -1,0 +1,16 @@
+body {
+  background: #1d1d1d;
+}
+
+div {
+  text-align: center;
+}
+
+h1 {
+  color: white;
+}
+
+div > a {
+  text-decoration: none;
+  color: white;
+}
